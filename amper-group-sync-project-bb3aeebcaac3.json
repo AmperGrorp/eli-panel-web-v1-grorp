@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "amper-group-sync-project",
+  "private_key_id": "bb3aeebcaac35185ec290ea38167c8c049ace17c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCynBELwsRY4+Uy\nLLzydmRMMzuQK+WdJ9vEGkMTQyEaHAWD9lGRIodjBtlr5gzxvd9KkbFGR3Gor4yt\nzFzgejDEhYbVJs41NR+M5RGPit9lMBqyQtLRfCpIW+GtqSuztTS+xXDZv5n5mfB0\nVbQ/jCLVMVbb+0Y0IdJXUUQmwTJUAwbS9evHISLfjtnXrmQTiKQeApdaKrEm7+EX\nd8CQIB3YHRto0DL5/+5ZcgAT9ZqNCWzthAUZlP4pwJvG+YfJ0AxYowKJE/cEwaf1\n8RwkcqfGKeeR1s4z2cMG2HxDvH+9mPHrSvnt3i87q/S1c+3n9+OY4L7ES6j3PP34\nVNvV9SFbAgMBAAECggEAUA5x+YKIPYuQjMfOvSLh2+HO3dU/KwzVjXV0AStCqBBN\nTJPYhaQjaPiF9b38qVJAxoy9F9IoGMLu3GvQaXF7cGqlP98P6HtyM9Xs5BkL/q/s\nF2CqW+k6jopYgl1kUD11cdjPt1oRKvab95j+nMk0R7jAxQNAuVc7j5XGZVSNOWgN\nI9ydpb8zdXmm0x4i5WK2bpL5m96nL8tmQMxFP3Q1BJggrLpxvFD0zWD+D1USF3yJ\nzaiJKSouEbeVCBWECFTUltauY4A5Ap91NWc9IsurH27P/P/3uO0eOiwpnsOeFJNb\nWgtlsxizVu/UoTdfbepwPwvfctqrKY/Dw2wfAqIDGQKBgQDtiKBolqLk8udV7Y8/\nymuT8P0GNQR0C+0R+fJ2HJd/3od0NpLCx/UmichCi458FZ+wKInOLojVc5WZ5cZy\nZ7eDr5mVYMI+taW8QOdFstHE1lAMpD9mVvTA9zP8XylSkR+1orPEONPInzzgm4yD\nitDEP34Tz1dLO0/UO5zvlioilwKBgQDAfr0jBrBpZ+ZATnBqrhH89zrZJh+HGYqw\n9ca0VLj4z9+zgvuBjIXXrZbwQmdVS7PNgBVNTy/3a8oXWO2/L31ZMXLdrITR09vk\n1RRF/oPgE9pQO3EkGwHKwPy9XBJLEqXE676PTPs3NsO0M7whtsliNt1cR/r2kuou\nAX9VUW6D3QKBgQC/ok+PsZ//x/xc9chxNZSvCWiI/nL2ULzVmOpE4fJUBisP1gt3\nO60Lh3NaRI8SiruHel0bS623T4XtYFRG7mg+xIfK3QI5Z4ErrM0pDQhxnll8qXJA\n1XymxYlaXUfQRibn+ji/4PzzyYxqxPOLGI4vFe5Yexm5J0PTPLjzDho2RwKBgHmf\nmmFHGK+AtjprVRwSX8s1ajlJnSH/QWIN6D6ISVbsAKurVr3Dy806IOQtEJ0T98cf\n5lWyctwhfs7BoXXqy4hPdgQZvNHWylkLSIPxC+HIqWeIJzRo2/j/drEuO2Czp4mE\naiKgwRlhwMVa6sNieltTzwk/cZHZwZzP1WRSz0EBAoGAYwCyP6+u8OnHBISKD5EM\nN0U8nZITlePLvOKnEusEnCXj6AgJo5qLDuIrvROt7g+u+WhzuTEMACBKPKTNa32K\nOoRFzRwfh8DVrAe87WGmvY+K1o9bJLeSDWlf0Av6riGcVp1RvJS1pkC7ttU+NpeL\npfIwc7J47zVOzQESFD4AyjI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "eli-google-drive-sync@amper-group-sync-project.iam.gserviceaccount.com",
+  "client_id": "116127746001400953467",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/eli-google-drive-sync%40amper-group-sync-project.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
